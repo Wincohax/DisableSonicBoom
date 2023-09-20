@@ -1,0 +1,9 @@
+name: DisableSonicboom
+version: '1.0-SNAPSHOT'
+main: hax.disablesonicboom.DisableSonicboom
+api-version: '1.19'
+commands:
+  command:
+    description: "Enables/Disables Sonic Boom Damage"
+    usage: "/disablesb <true/false>"
+    permission-message: "You do not have permission to use this command (are u being fr rn?)"
